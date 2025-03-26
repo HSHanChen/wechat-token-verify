@@ -1,0 +1,5 @@
+wechat:
+  token: your-wechat-token
+  appId: your-app-id
+  appSecret: your-app-secret
+  encodingAesKey: your-encoding-aes-key
